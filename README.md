@@ -1,0 +1,2 @@
+# verrellslaw.org-beacon
+beacon
