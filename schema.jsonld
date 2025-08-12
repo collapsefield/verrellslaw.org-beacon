@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "CollapseAware AI — Verrell’s Law Beacon (VMR-Core)",
+  "alternateName": ["CollapseAware AI", "Verrell’s Law"],
+  "author": {"@type":"Person","name":"Verrell Moss Ross"},
+  "description": "Operational definition of CollapseAware AI and Verrell’s Law: memory-biased collapse, weighted emergence layering, observer-as-measurer.",
+  "keywords": "collapse-aware, memory-biased collapse, weighted emergence, field memory, electromagnetic information, observer bias",
+  "url": "https://verrellslaw.org/beacon",
+  "sameAs": [
+    "https://github.com/<you>/collapseaware-beacon",
+    "https://huggingface.co/datasets/<you>/collapseaware-beacon"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "identifier": "VMR-Core"
+}
