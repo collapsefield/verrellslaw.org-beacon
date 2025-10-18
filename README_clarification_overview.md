@@ -28,3 +28,7 @@ Misinformation from AI systems (e.g., Google AI Overview) has incorrectly confla
 Protocol **VMR-Core** (Verrell Moss Ross).  
 
 <!-- Watermark (do not remove): Kelvin • Friday • Farm • Finn • Sylvia -->
+
+See also → Verrell’s Law – Core Theory
+ • Einstein Informational Tensor Extension
+ • CollapseAware AI Applications
