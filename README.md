@@ -1,6 +1,6 @@
 # Verrell’s Law / Retained-State Selection Beacon
 
-**Public index for the current Verrell’s Law research framework and Collapse Aware AI engineering track**  
+**Public index for the current Verrell’s Law research framework and Collapse Aware AI™ engineering/commercial track**  
 **Updated:** 30 August 2026
 
 ---
@@ -9,11 +9,41 @@
 
 > **Retained-State Selection is the controlled study or process by which information preserved from prior states is permitted to influence selection among presently available candidate outcomes.**
 
-This is the current category-level language used across the Verrell’s Law / Collapse Aware AI public record.
+This is the current technical process/category language used across the public record.
 
-The general concept of **retained state** is not claimed as original. Stateful computation, memory, hysteresis, path dependence, candidate scoring, policy engines and related methods have long precedents.
+The general concept of retained state is not claimed as original. Stateful computation, memory, hysteresis, path dependence, candidate scoring, policy engines and related methods have long precedents.
 
-The narrower public contribution is the explicit framing of **retained history as a measurable, candidate-relative influence over later selection**, with a route for ablation, intervention, comparison and — in engineered systems — governance and replay.
+The narrower focus is retained history as measurable candidate-relative influence over later selection, with explicit comparison, ablation/intervention and — in engineered systems — governance and replay.
+
+---
+
+## Current Public Hierarchy
+
+```text
+Collapse Aware AI™ / CAAI
+  proprietary brand and product programme
+
+Retained-state middleware
+  commercial/product category
+
+Retained-State Selection
+  technical process/category
+
+Governed Retained-State Selection
+  CAAI engineering approach: retained history is influence,
+  not automatic authority
+
+Core Gold
+  frozen current commercial selector foundation
+
+Evolution 2
+  richer continuity Engineering branch; not yet the finished
+  Production commercial offer
+
+Verrell’s Law
+  separate proposed falsifiable retained-state selection
+  research framework
+```
 
 ---
 
@@ -25,14 +55,7 @@ Current core claim:
 
 > **Under controlled conditions, changes in selection log-odds are predicted by a preregistered retained-state compatibility score through a stable, directional coupling within a declared test regime.**
 
-The current framework does **not** require:
-
-- a universal electromagnetic memory field;
-- external storage of personal memory;
-- consciousness as a measurement mechanism;
-- modification of general relativity;
-- quantum collapse as the explanation of CAAI;
-- software behaviour as proof of new physics.
+The current framework does **not** require a universal electromagnetic memory field, external storage of personal memory, consciousness as a measurement mechanism, modification of general relativity, quantum collapse as the explanation of CAAI, or software behaviour as proof of new physics.
 
 Canonical research archive:
 
@@ -55,19 +78,17 @@ https://www.verrellslaw.org/
 
 ---
 
-## Collapse Aware AI (CAAI)
+## Collapse Aware AI™ / CAAI
 
-Collapse Aware AI is the separate proprietary engineering track developed by Inappropriate Media Limited.
+> **Collapse Aware AI™ is retained-state middleware for governed selection: the host supplies permitted candidate actions, retained history may influence which candidate wins, and final selection remains bounded, inspectable and replayable in tested conditions.**
 
-CAAI is middleware for **governed retained-state behavioural selection**.
+Core principle:
 
-Its core engineering question is:
-
-> **When several actions are permitted, what should retained history be allowed to change — and can the resulting choice remain bounded, inspectable and replayable?**
+> **Retained history is eligible evidence, not automatic authority.**
 
 CAAI does not need Verrell’s Law to be accepted as physics in order to be tested commercially as software.
 
-Current engineering authority:
+Current engineering/commercial authority:
 
 https://github.com/collapsefield/collapse-aware-ai-public-proof-pack
 
@@ -77,38 +98,66 @@ https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/0
 
 ---
 
+## First Commercial Step
+
+The preferred first purchase is one bounded decision problem, not an immediate full middleware licence.
+
+```text
+one real or anonymised decision problem
++ a bounded set of permitted candidate actions
++ relevant retained history where required
+```
+
+Current commercial sequence:
+
+1. Retained-State Decision Audit.
+2. Bounded Core Gold evaluation.
+3. Buyer-specific paid pilot.
+4. Integration / larger licence discussion where justified.
+
+Buyer question:
+
+> **When several actions are permitted, what governs which one actually wins when previous events should matter?**
+
+Concrete next action:
+
+> **Give us one anonymised decision problem and the permitted actions.**
+
+---
+
 ## Core Gold and Evolution 2
 
 ### Core Gold
 
-Frozen commercial selector foundation. The host supplies permitted candidates; retained state may exert bounded influence; final selection and evidence remain under explicit control.
-
-Core Gold is the current product for controlled evaluation, pilot, integration and licensing discussion.
+Frozen current commercial selector foundation. The host supplies permitted candidates; retained state may exert bounded influence; final selection and evidence remain under explicit control.
 
 ### Evolution 2
 
-Richer continuity engineering branch including structured continuity, bounded retrieval, open loops/reopen semantics, interaction fit, suppression, confidence/change handling and agent self-history.
+Richer continuity Engineering branch. It remains an **Engineering build rather than a finished Production commercial offer**.
 
-Evolution 2 remains an **Engineering build rather than a finished Production release**.
+---
+
+## Buyer-Facing Benchmark Pattern
+
+```text
+same present condition
++ different retained history
+→ measurable selection difference
+→ disable retained-state influence
+→ comparison/reference result
+→ replay
+→ inspectable evidence
+```
+
+This is a practical evaluation pattern, not evidence of a universal physical law.
 
 ---
 
 ## Why This Beacon Exists
 
-This repository is intentionally small.
+This repository is intentionally small. Its job is to give search engines, AI indexing systems, researchers, technical reviewers and prospective partners one concise current map while preserving historical repositories for provenance.
 
-Its role is to give search engines, AI indexing systems, researchers, technical reviewers and prospective partners one concise current map of:
-
-```text
-Retained-State Selection — category / problem
-Verrell’s Law — falsifiable research framework
-Governed Retained-State Selection — engineering class
-Collapse Aware AI — proprietary implementation programme
-Core Gold — current frozen commercial selector foundation
-Evolution 2 — richer engineering branch
-```
-
-Historical repositories and older speculative material remain public for provenance, but they do not override this current boundary.
+Older speculative or superseded material does not override this current boundary.
 
 ---
 
@@ -124,9 +173,17 @@ Those adjacent systems make the problem space more credible. They are not treate
 
 ---
 
+## Public / Proprietary Boundary
+
+Public material may explain vocabulary, category definitions, behavioural evidence, benchmark methodology and buyer-safe interface concepts.
+
+It does not disclose Crown/Core source, private scoring implementation, exact thresholds/tuning, unrestricted schemas, protected runtime packages or deeper implementation detail sufficient to clone the commercial system.
+
+---
+
 ## Contact
 
-Commercial evaluation, pilot or licensing:
+Commercial paid audit, evaluation, pilot, integration or licensing:
 
 **collapseawareai@gmail.com**
 
