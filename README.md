@@ -1,7 +1,7 @@
 # Verrell’s Law / Retained-State Selection Beacon
 
 **Public index for the current Verrell’s Law research framework and Collapse Aware AI™ engineering/commercial track**  
-**Updated:** 30 August 2026
+**Updated:** 14 September 2026
 
 ---
 
@@ -100,7 +100,7 @@ https://github.com/collapsefield/collapse-aware-ai-public-proof-pack/blob/main/0
 
 ## First Commercial Step
 
-The preferred first purchase is one bounded decision problem, not an immediate full middleware licence.
+The preferred first purchase is one bounded decision problem rather than an immediate full middleware licence.
 
 ```text
 one real or anonymised decision problem
@@ -108,32 +108,9 @@ one real or anonymised decision problem
 + relevant retained history where required
 ```
 
-Current commercial sequence:
-
-1. Retained-State Decision Audit.
-2. Bounded Core Gold evaluation.
-3. Buyer-specific paid pilot.
-4. Integration / larger licence discussion where justified.
-
 Buyer question:
 
 > **When several actions are permitted, what governs which one actually wins when previous events should matter?**
-
-Concrete next action:
-
-> **Give us one anonymised decision problem and the permitted actions.**
-
----
-
-## Core Gold and Evolution 2
-
-### Core Gold
-
-Frozen current commercial selector foundation. The host supplies permitted candidates; retained state may exert bounded influence; final selection and evidence remain under explicit control.
-
-### Evolution 2
-
-Richer continuity Engineering branch. It remains an **Engineering build rather than a finished Production commercial offer**.
 
 ---
 
@@ -161,29 +138,17 @@ Older speculative or superseded material does not override this current boundary
 
 ---
 
-## Independent Convergence
-
-Current external work is converging on adjacent pieces of the problem: history-aware candidate verification, runtime path governance, trusted action-boundary control, bounded action vocabularies and selective long-horizon memory.
-
-Current public comparison note:
-
-https://github.com/collapsefield/memory-weighted-selection/blob/main/research_notes/INDEPENDENT_CONVERGENCE_MAP_2026-08-30.md
-
-Those adjacent systems make the problem space more credible. They are not treated as proof of Verrell’s Law or as evidence that CAAI is globally unique.
-
----
-
 ## Public / Proprietary Boundary
 
 Public material may explain vocabulary, category definitions, behavioural evidence, benchmark methodology and buyer-safe interface concepts.
 
-It does not disclose Crown/Core source, private scoring implementation, exact thresholds/tuning, unrestricted schemas, protected runtime packages or deeper implementation detail sufficient to clone the commercial system.
+It does not disclose Core Gold source, private scoring implementation, exact thresholds/tuning, unrestricted schemas, protected runtime packages or deeper implementation detail sufficient to clone the commercial system.
 
 ---
 
 ## Contact
 
-Commercial paid audit, evaluation, pilot, integration or licensing:
+Engineering enquiries:
 
 **collapseawareai@gmail.com**
 
@@ -191,4 +156,4 @@ Research / authorship material:
 
 https://www.verrellslaw.org/
 
-© 2025–2026 Inappropriate Media Limited / Marcos Verrell Moss Ross (M.R.).
+Copyright © 2025–2026 Marcos Verrell Moss Ross (M.R.).
