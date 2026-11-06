@@ -150,7 +150,7 @@ It does not disclose Core Gold source, private scoring implementation, exact thr
 
 Engineering enquiries:
 
-**collapseawareai@gmail.com**
+[hello@verrellslaw.org](mailto:hello@verrellslaw.org)
 
 Research / authorship material:
 
