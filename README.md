@@ -1,7 +1,17 @@
-# Verrell’s Law / Retained-State Selection Beacon
+# Verrell’s Law · Research & Engineering Navigator
 
-**Public index for the current Verrell’s Law research framework and Collapse Aware AI™ engineering/commercial track**  
-**Updated:** 14 September 2026
+**One research question, two separate programmes, independently assessed.**
+
+| **RESEARCH — Verrell’s Law** | **ENGINEERING — Collapse Aware AI** |
+| :--- | :--- |
+| **A Retained-State Selection Framework** | **Governed Retained-State Behavioural-Selection Middleware** |
+| [Research, mathematics and proposed tests](https://github.com/collapsefield/collapsefield-verrells-law) | [Product evidence and evaluation route](https://github.com/collapsefield/collapse-aware-ai-public-proof-pack) |
+
+**Research principle:** Prior interactions may leave retained information that changes how later outcomes are weighted and selected, given comparable current inputs.
+
+**Engineering principle:** Among host-permitted candidates, retained history can influence selection without overriding eligibility and governance.
+
+**Where to begin:** [Verrell’s Law website](https://www.verrellslaw.org/) · [CAAI Decision Lab](https://collapsefield.github.io/caai-decision-lab/)
 
 ---
 
